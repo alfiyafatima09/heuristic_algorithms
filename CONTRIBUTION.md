@@ -19,7 +19,7 @@ Click the "Fork" button at the top-right corner of this page to create a copy of
 Clone your forked repository to your local machine:
 
 ```bash
-git clone https://github.com/alfiyafatima09/heuristic_alogrithms.git
+[git clone https://github.com/alfiyafatima09/heuristic_alogrithms.git](https://github.com/alfiyafatima09/heuristic_algorithms.git)
 
 ```
 
